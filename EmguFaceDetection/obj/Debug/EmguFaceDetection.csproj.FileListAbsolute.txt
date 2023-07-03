@@ -1,0 +1,70 @@
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe.config
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\bin\Debug\EmguFaceDetection.pdb
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\bin\Debug\Emgu.CV.xml
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\bin\Debug\Emgu.Util.xml
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\obj\Debug\EmguFaceDetection.frmEmguFaceDetection.resources
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\obj\Debug\EmguFaceDetection.Properties.Resources.resources
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CopyComplete
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\obj\Debug\EmguFaceDetection.exe
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\EmguFaceDetection\EmguFaceDetection\obj\Debug\EmguFaceDetection.pdb
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe.config
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.pdb
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.frmEmguFaceDetection.resources
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.Properties.Resources.resources
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CopyComplete
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.exe
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.pdb
+C:\Users\Dell\Downloads\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.AssemblyReference.cache
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.AssemblyReference.cache
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.frmEmguFaceDetection.resources
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.Properties.Resources.resources
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.GenerateResource.cache
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CoreCompileInputs.cache
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.exe
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.pdb
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe.config
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.pdb
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CopyComplete
+D:\flash\Wrk\Emgu Tut Projects\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe.config
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\bin\Debug\EmguFaceDetection.pdb
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.frmEmguFaceDetection.resources
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.Properties.Resources.resources
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.GenerateResource.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CopyComplete
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.exe
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.pdb
+C:\Users\mosta\OneDrive\Desktop\charp\Fats\EmguFaceDetection\obj\Debug\EmguFaceDetection.csprojAssemblyReference.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe.config
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\bin\Debug\EmguFaceDetection.pdb
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.AssemblyReference.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\obj\Debug\EmguFaceDetection.frmEmguFaceDetection.resources
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\obj\Debug\EmguFaceDetection.Properties.Resources.resources
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.GenerateResource.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CopyComplete
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\obj\Debug\EmguFaceDetection.exe
+C:\Users\mosta\OneDrive\Desktop\charp\Fats with smart average\EmguFaceDetection\obj\Debug\EmguFaceDetection.pdb
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe.config
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\bin\Debug\EmguFaceDetection.exe
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\bin\Debug\EmguFaceDetection.pdb
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.AssemblyReference.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\obj\Debug\EmguFaceDetection.frmEmguFaceDetection.resources
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\obj\Debug\EmguFaceDetection.Properties.Resources.resources
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.GenerateResource.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\obj\Debug\EmguFaceDetection.csproj.CopyComplete
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\obj\Debug\EmguFaceDetection.exe
+C:\Users\mosta\OneDrive\Desktop\charp\Fats Average contours\EmguFaceDetection\obj\Debug\EmguFaceDetection.pdb
